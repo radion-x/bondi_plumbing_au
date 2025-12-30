@@ -5,17 +5,17 @@
 
 /* 1. VARIABLES & TOKENS */
 :root {
-    /* PRIMARY: Eucalyptus Sage */
+    /* PRIMARY: Deep Navy Blue */
     /* Use for: Hero background, Footer, Headings, Borders */
-    --color-primary: #4A5D4F;
+    --color-primary: #0F172A;
 
-    /* ACCENT: Wattle Gold */
+    /* ACCENT: Safety Orange */
     /* Use for: Call-to-Action Buttons, Price highlights, Icon accents */
-    --color-accent: #EBC944;
+    --color-accent: #F97316;
 
-    /* BACKGROUND: Warm Cream */
+    /* BACKGROUND: Clean White/Light Gray */
     /* Use for: Page body background (replaces stark white) */
-    --color-bg-body: #F7F5F0;
+    --color-bg-body: #F8FAFC;
 
     /* SURFACE: Crisp White */
     /* Use for: Cards, Pricing Tables, Form backgrounds (to pop against the cream) */
@@ -2876,5 +2876,3 @@ chat-message.ai p + h4 {
 .addons-section {
     padding: 5rem 0;
 }
-
-
